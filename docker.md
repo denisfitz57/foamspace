@@ -5,7 +5,7 @@ Runtime engine runs container light weight better fit to microarchitecture
 Docker daemon like hypervisor
 
 ## Some commands
-
+docker image rm 
 docker exec -it a962 sh ; makes a shel into the running container
     where a962 is from:  
     docker ps =>  
